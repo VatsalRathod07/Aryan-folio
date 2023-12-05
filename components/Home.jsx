@@ -9,7 +9,7 @@ const Home = () => {
 
   const codeText = `
 const greeting = "Hello there!";
-    const introduction = "I'm Aryan Gohil. a dedicated frontend developer hailing from India.";
+    const introduction = "I'm Aryan Gohil. a dedicated UI/UX Designer hailing from India.";
     const expertise = "My expertise? Crafting captivating, user-friendly websites.";
     const developerImage = "./developer.png";
 
@@ -79,7 +79,7 @@ const greeting = "Hello there!";
             <div className="flex flex-col items-center lg:items-start gap-3 text-white">
               <h3 className="font-Bayon text-4xl lg:text-7xl">Hello there!</h3>
               <small className="font-DMSans text-center lg:text-start max-w-xl lg:max-w-none text-xl md:text-4xl text-neutral-300">
-                I'm Aryan gohil. a dedicated frontend developer hailing from India.
+                I'm Aryan gohil. a dedicated UI/UX Designer hailing from India.
               </small>
               <small className="font-DMSans text-center lg:text-start  max-w-xl lg:max-w-none text-xl md:text-4xl text-neutral-300">
                 My expertise? Crafting captivating, user-friendly websites.
